@@ -31,7 +31,7 @@ Demonstrate the real-world impact of machine learning in healthcare.
 📁 Folder Structure  
 ├── model_and_gui/        → Trained CNN models and GUI code  
 ├── images/               → Sample input/output images  
-├── screenshots/          → GUI and output screenshots  
+├── Recorded video/          → GUI and output video  
 ├── requirements.txt      → Dependencies  
 └── README.md             → Project documentation  
 
