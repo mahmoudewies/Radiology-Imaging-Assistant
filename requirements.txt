@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+opencv-python
+Pillow
+tensorflow        # أو استخدم torch إن كنت اعتمدت على PyTorch
+scikit-learn
+joblib
