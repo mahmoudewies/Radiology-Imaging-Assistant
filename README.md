@@ -28,11 +28,10 @@ Offer a simple, intuitive interface for clinical use.
 
 Demonstrate the real-world impact of machine learning in healthcare.
 
-📁 Folder Structure
-|
-├── model & GUI/                  # Trained CNN models
-├── images/                 # Sample input/output images
-├── requirements.txt        # Dependencies
-└── README.md               # Project documentation
-📷 Screenshots
-(Add screenshots here to show GUI + sample outputs)
+📁 Folder Structure  
+├── model_and_gui/        → Trained CNN models and GUI code  
+├── images/               → Sample input/output images  
+├── screenshots/          → GUI and output screenshots  
+├── requirements.txt      → Dependencies  
+└── README.md             → Project documentation  
+
